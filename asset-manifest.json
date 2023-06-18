@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portfilio/static/css/main.4853de66.css",
+    "main.js": "/Portfilio/static/js/main.55686647.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfilio/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/Portfilio/index.html",
+    "main.4853de66.css.map": "/Portfilio/static/css/main.4853de66.css.map",
+    "main.55686647.js.map": "/Portfilio/static/js/main.55686647.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfilio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4853de66.css",
+    "static/js/main.55686647.js"
+  ]
+}
