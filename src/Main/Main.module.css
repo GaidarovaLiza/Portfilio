@@ -1,0 +1,17 @@
+.mainBlock {
+    height: 100vh;
+    background-color: palegoldenrod;
+}
+
+
+
+.text {
+    width: 300px;
+    background-color: pink;
+}
+
+.photo {
+    height: 400px;
+    width: 300px;
+    background-color: pink;
+}

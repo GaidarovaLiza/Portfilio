@@ -1,0 +1,20 @@
+.footerBlock {
+    height: 100vh;
+    background-color: gainsboro;
+}
+
+.footerContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.icons {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    margin-top: 40px;
+    font-weight: bold;
+}
