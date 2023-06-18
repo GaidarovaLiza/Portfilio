@@ -31,3 +31,9 @@
     height: 45px;
     width: 105px;
 }
+
+@media (max-width: 600px) {
+    .form {
+        width: 70%;
+    }
+}

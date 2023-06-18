@@ -7,9 +7,25 @@
     text-align: left;
 }
 
+.imgContainer {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .img {
     height: 170px;
     width: 100%;
+}
+
+.imgContainer a {
+    position: absolute;
+    background-color: white;
+    padding: 5px 10px;
+    text-decoration: none;
 }
 
 .title {

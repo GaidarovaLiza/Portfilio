@@ -1,5 +1,4 @@
 .skillsBlock {
-    height: 100vh;
     background-color: darkseagreen;
 }
 
@@ -21,6 +20,10 @@
 }
 
 @media (max-width: 600px) {
+    .skillsBlock {
+        min-height: 100vh;
+    }
+
     .skills {
         justify-content: center;
     }

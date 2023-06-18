@@ -1,5 +1,4 @@
 .projectsBlock {
-    height: 100vh;
     background-color: papayawhip;
 }
 
@@ -17,6 +16,10 @@
 }
 
 @media (max-width: 600px) {
+    .projectsBlock {
+        min-height: 100vh;
+    }
+
     .projects {
         justify-content: center;
     }
